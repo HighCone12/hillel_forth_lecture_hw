@@ -1,0 +1,5 @@
+user_name = input('Enter your username')
+user_name1 = user_name.upper()
+user_name2 = user_name.lower()
+print(user_name1)
+print(user_name2)
